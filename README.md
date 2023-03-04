@@ -1,25 +1,9 @@
 <h1 align="center">  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Developpeur Web ;Developpeur Full Stack;Avide de nouvelles technologies;Working on new project&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Developpeur%20Full%20Stack;Working%20on%20new%20project&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
 </p>
-
-
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> 
-  <style>
-td, th {
-   border: none!important;
-}
-</style>
- ![Lionel's github stats](https://github-readme-stats.vercel.app/api?username=LionAB&locale=fr&count_private=true&show_icons=true&theme=transparent) | ![Lionel GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LionAB&locale=fr&count_private=true&theme=transparent) 
-| --- | --- | 
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Langages</b>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionAB&locale=fr&layout=compact&theme=transparent&langs_count=12)
-<img align="right" alt="GIF" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="visibility:visible;max-width:100%;" />
-<br><br>
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> A propos de moi
+<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> A propos de moi
 
 
 - 👋 Salut , c'est Lionel 
@@ -31,13 +15,17 @@ Au cours de mon cursus j'ai acquis une expérience solide dans divers domaines t
     
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LionAB&theme=nord" alt="bc-expert" width="600px"/></a> </p>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b> 
+ 
 
 
+ ![Lionel's github stats](https://github-readme-stats.vercel.app/api?username=LionAB&locale=fr&count_private=true&show_icons=true&theme=transparent) |![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LionAB&locale=fr&layout=compact&theme=transparent&langs_count=12)
+| --- | --- |
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Langages</b>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 <p align="center">
