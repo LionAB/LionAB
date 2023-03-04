@@ -3,6 +3,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Developpeur%20Full%20Stack;Working%20on%20new%20project&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
 </p>
+
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>A propos de moi
 
 
