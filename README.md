@@ -7,7 +7,7 @@
 
 
 - 👋 Salut , c'est Lionel 
-- 🌱 Acutellement étudiant je paufine mes compétences et découvre de nouveaux outils  .
+- 🌱 Actuellement étudiant je paufine mes compétences et découvre de nouveaux outils  .
 - 🎯 Ici vous pourrez trouver un récapitulatif  détaillant  mes projets , mes compétences. 
 <p>
 <br>
