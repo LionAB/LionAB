@@ -1,6 +1,7 @@
 <h1 align="center">  Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <a href="https://github.com/LionAB"><img src="https://readme-typing-svg.herokuapp.com/?lines=Developpeur Web ;Developpeur Full Stack;Avide de nouvelles technologies;Working on new project&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45"></a>
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Developpeur Web ;Developpeur Full Stack;Avide de nouvelles technologies;Working on new project&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45">
 </p>
 
 
