@@ -12,7 +12,7 @@
 - 🎯 Ici vous pourrez trouver un récapitulatif  détaillant  mes projets , mes compétences. 
 <p>
 <br>
-Au cours de mon cursus j'ai acquis une expérience solide dans divers domaines tels que le développement web, la programmation orientée objet, la gestion de base de données, ainsi que dans la conception.Au fil des ans et de mon apprentissage, j'ai travaillé sur de nombreux projets passionnants, allant de simples projets fil-rouge à des applications web complexes . Toujours à la recherche de nouveaux défis à relevé et je suis heureux de contribuer à des projets passionnants en utilisant mes compétences techniques pour résoudre des problèmes complexes.</p>
+Au cours de mon cursus, j'ai acquis une expérience solide dans divers domaines tels que le développement web, la programmation orientée objet, la gestion de bases de données et la conception. Au fil des ans et de mon apprentissage, j'ai travaillé sur de nombreux projets passionnants, allant de simples projets fil-rouge à des applications web complexes. Toujours à la recherche de nouveaux défis à relever, je suis heureux de contribuer à des projets stimulants en utilisant mes compétences techniques pour résoudre des problèmes complexes.</p>
     
 <br>
 
